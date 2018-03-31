@@ -23,7 +23,7 @@ private EditText edtName;
     private EditText edtPassword;
     private Button btnSignIn;
     private Button btnSignUp;
-//shameek
+//shameek is
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
